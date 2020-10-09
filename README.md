@@ -6,7 +6,7 @@
 * [Credits](#credits)
 
 ## Description
-The purpose of this website is to provide a way for a user to create a secure password between 8 to 128 characters that includes at least one of the following character types:<br>
+The purpose of this application is to provide employees with a tool to create a secure password based on character criteria they select. The password length must be between 8 to 128 characters and will include at least one of the following character types:<br>
  
  * Uppercase characters
  * Lowercase characters
