@@ -15,7 +15,7 @@ The purpose of this application is to provide employees with access to senstive 
 
 The user will click the "Generate Password" Button and will be prompted to answer questions regarding the character types to include in the password. Once this is selected, the password will be displated in the Your Secure Password textbox.
 
-While working on this project, I learned about how to use prompts to display instructions to users.  I used arrays to contain the character type data.  I also learned how to use rrays, loops and if statements.
+While working on this project, I used prompts to display instructions to users.  I also used arrays to contain the character type data. Arrays, loops and if statements were used to manipulate the data to create the secure password.
 <br>
 <br>
  <img src="screenshot.JPG" alt="screenshot"> 
