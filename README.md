@@ -6,16 +6,16 @@
 * [Credits](#credits)
 
 ## Description
-The purpose of this application is to provide employees with a tool to create a secure password based on character criteria they select. The password length must be between 8 to 128 characters and will include at least one of the following character types:<br>
+The purpose of this application is to provide employees with access to senstive data a tool to create a secure password to ensure the data is protected. The secured password will be based on character criteria they select. The password length must be between 8 to 128 characters and will include at least one of the following character types:<br>
  
  * Uppercase characters
  * Lowercase characters
  * Numbers
  * Special characters
 
-The user will click the "Generate Password" Button and will be prompted to answer questions regaarding the character types to include in the password. Once this is selected, the password will be displated in the Your Secure Password textbox.
+The user will click the "Generate Password" Button and will be prompted to answer questions regarding the character types to include in the password. Once this is selected, the password will be displated in the Your Secure Password textbox.
 
-While working on this project, I learned about prompts, arrays, loops and if statements.
+While working on this project, I learned about how to use prompts to display instructions to users.  I used arrays to contain the character type data.  I also learned how to use rrays, loops and if statements.
 <br>
 <br>
  <img src="screenshot.JPG" alt="screenshot"> 
