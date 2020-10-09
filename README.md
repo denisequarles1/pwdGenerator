@@ -18,7 +18,7 @@ The user will click the "Generate Password" Button and will be prompted to answe
 While working on this project, I learned about prompts, arrays, loops and if statements.
 <br>
 <br>
- <img src="screenshot.jpg"> 
+ <img src="screenshot.JPG" alt="screenshot"> 
  
 ## Installation
 1. Access my GitHub repository using the following link: https://github.com/denisequarles1/pwdGenerator
